@@ -1,2 +1,2 @@
 # Python
-Basic 
+Artificial Intelligence Activity
