@@ -18,7 +18,7 @@ class Sentence():
     @classmethod
     def validate(cls, sentence):
         if not isinstance(sentence, Sentence):
-            raise TypeError("must be a logical sentence")
+            raise TypeError("sorry it's not a logic")
 
     @classmethod
     def parenthesize(cls, s):
