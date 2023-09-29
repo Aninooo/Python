@@ -1,2 +1,2 @@
-# Python
+# Python Activity 
 Artificial Intelligence Activity
